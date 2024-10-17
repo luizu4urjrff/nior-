@@ -1,0 +1,26 @@
+body{
+text-align:center;
+background-color: crimson;
+}
+img{
+    width: 700px;
+    height: 700px;
+    border-style:dashed;
+    border: radius 10px;
+    border-color: blue;
+}
+p{
+    font-size: small;
+    color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: x-small;
+    color: ghostwhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
